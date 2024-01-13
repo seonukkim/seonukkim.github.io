@@ -12,12 +12,12 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 <h2>Curriculum Vitae</h2>
 <div class="news-entries grid-2">
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV (English): <a href="\assets\cv\20240113_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV (English) <a href="\assets\cv\20240113_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(English)<span>: <a href="\assets\cv\20240113_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(English)<span>: <a href="\assets\cv\20240113_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
 </div>
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV (Korean): <a href="\assets\cv\20240113_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV (Korean) <a href="\assets\cv\20240113_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(Korean)<span>: <a href="\assets\cv\20240113_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(Korean)<span>: <a href="\assets\cv\20240113_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
 </div>
 </div>
 
@@ -44,7 +44,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 
   <div class="entry-item course">
     <h3 class="entry-title"><a href="https://thingsflow.com/">Thingsflow</a> <span style="font-size: 9pt;"><a href="https://www.krafton.com/">Krafton</a> Subsidiary</span></h3>
-    <p class="entry-meta">May - August 2023</p>
+    <p class="entry-meta">May - Aug. 2023</p>
     <p style="font-size: 11pt; line-height: 150%;">
       Machine Learning Scientist Intern
     </p>  
