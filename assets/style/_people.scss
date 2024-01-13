@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+.group-picture {
+    max-width: 550px;
+    margin: 0 auto 1*$spacing !important;
+
+    a.photo {
+        display: block;
+        box-shadow: 0 0 5px rgba(0,0,0,0.5);
+        border: 10px solid #fff;
+        // transform: rotate(2deg);
+        text-decoration: none;
+        color: inherit;
+        font-size: (13/16)*1em;
+    }
+    img {
+        box-sizing: border-box;
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .caption {
+        display: block;
+        padding: .5em 0 0;
+        text-align: center;
+    }
+}
+
+.group-picture-past { 
+    text-align: center; 
+
+    a { 
+        color: #003cff; 
+    }
+}
+
+.position-members {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.position-alumni {
+    flex-direction: column;
+    .namecard {
+        margin-bottom: 0.5*$spacing;
+    }
+
+    .member-name, .member-career, .member-period, .member-now, .member-materials {
+        float: left;
+        padding-right: 10px;
+        font-size: 0.9em;
+    }
+}
+
+.member-name {
+    font-weight: bold;
+    line-height: 1.5rem;
+}
+
+.member-interest {
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+    font-size: .85em;
+}
+
+.member-period {
+    color: $color-faded-text;
+    font-size: 0.8em;
+}
+
+.namecard {
+    clear: left;
+    display: flex;
+    margin-bottom: 2*$spacing;
+
+    .member-image {
+        width: $spacing*10;
+        height: $spacing*10;
+        background-position: 50% 50%;
+        background-repeat: none;
+        background-size: cover;
+        background-color: $color-lightgray;
+
+        float: left;
+        margin-right: $spacing;
+    }
+    
+    .namecard-content {
+        p {
+            margin: 0;
+        }
+    }
+}

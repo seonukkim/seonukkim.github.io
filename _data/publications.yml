@@ -1,0 +1,55 @@
+# List of all existing topics
+topics:
+  - international
+  - domestic
+
+# List of all existing venue types
+types:
+  - conference
+  - poster
+  - workshop
+  - journal
+  - preprint
+
+papers:
+
+  - title: "Representing the Timbre of Traditional Musical Instruments Based On Contemporary Instrumental Samples Using DDSP"
+    author: "Yousang Kwon, __Seonuk Kim__, Taeyoung Ko, Juhyeok Yoon, Kyungho Lee"
+    venue: "CHI 2023"
+    year: 2023
+    topics:
+      - international
+    type: poster
+    award: ""
+    link: "https://doi.org/10.1145/3586182.3616678"
+
+  - title: "Designing Interfaces for Text-To-Image Prompt Engineering Using Stable Diffusion Models: A Human-AI Interaction Approach"
+    author: "__Seonuk Kim__, Yousang Kwon, Taeyoung Ko, Kyungho Lee"
+    venue: "IASDR 2023"
+    year: 2023
+    topics:
+      - international
+    type: conference
+    award: ""
+    link: "https://doi.org/10.21606/iasdr.2023.448"
+
+  - title: "#taggenerator: How an Online Community Designs an Interface for Text Prompt Inputs Using a NovelAI's Diffusion Model"
+    author: "__Seonuk Kim__, Yousang Kwon, Kyungho Lee"
+    venue: "HCIK 2023"
+    year: 2023
+    topics:
+      - domestic
+    type: conference
+    award: ""
+    link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229726"
+
+  - title: "A Study on the Use of AI as Creative Support Tool for Line Drawing in Manga Production"
+    author: "__Seonuk Kim__, Kyungho Lee"
+    venue: "KSDS 2022"
+    year: 2022
+    topics:
+      - domestic
+    type: conference
+    award: "Best Student Paper Honorable Mention"
+    link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11073042"
+

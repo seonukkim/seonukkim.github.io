@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<h1 class="page-title">Projects</h1>
+
+{{ content }}
+
+<hr style="border: solid 1px #e6e6e6;">
+<h2>2023</h2>
+
+{% include list_projects.html limit=20 projects=site.categories.projects-2023 %}
+
+<hr style="border: solid 1px #e6e6e6;">
+<h2>2022</h2>
+
+{% include list_projects.html limit=20 projects=site.categories.projects-2022 %}
+<br>
+
+<hr style="border: solid 1px #e6e6e6;">
+<h2>2021</h2>
+
+{% include list_projects.html limit=20 projects=site.categories.projects-2021 %}
+<br>
+
+<hr style="border: solid 1px #e6e6e6;">
+<h2>2020</h2>
+
+{% include list_projects.html limit=20 projects=site.categories.projects-2020 %}

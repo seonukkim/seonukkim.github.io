@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script> -->
+    <body class="site page-{{page.path | slugify}}">
+        {% include header.html %}
+
+        <main class="main">
+            <div class="wrap">
+                {{ content }}
+            </div>
+        </main>
+
+        
+        {% include footer.html %}
+
+        {% include js.html %}
+    </body>
+</html>

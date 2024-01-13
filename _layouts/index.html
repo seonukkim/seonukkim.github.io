@@ -1,0 +1,111 @@
+---
+layout: default
+---
+<head>
+<style>
+  .image-container {
+    margin-right: 30px; /* 오른쪽 여백 설정 */
+  }
+
+  .flex-container {
+    display: flex;
+    align-items: center; /* 내용을 상하 중앙 정렬 */
+    flex-wrap: wrap; /* 필요한 경우 아이템을 다음 줄로 줄바꿈 */
+  }
+  
+  .responsive-image {
+    max-width: 300px; /* 이미지 최대 너비 설정 */
+    width: 100%; /* 이미지 너비를 부모 요소에 맞춤 */
+    height: auto; /* 이미지 높이를 자동으로 설정하여 비율 유지 */
+  }
+
+  .image-caption {
+    color: grey; /* 글씨 색상을 회색으로 설정 */
+    font-size: small; /* 글씨 크기를 작게 설정 */
+    text-align: center; /* 텍스트 중앙 정렬 */
+    margin-top: 10px; /* 이미지와의 상단 여백 설정 */
+  }
+  
+  .introduction {
+    flex-grow: 1; /* 남은 공간을 차지하도록 설정 */
+    flex-shrink: 1; /* 화면이 줄어들 때 크기가 줄어들도록 설정 */
+    width: 270px; /* 너비 설정 */
+  }
+
+  @media (max-width: 800px) {
+    .responsive-image {
+      max-width: 250px; /* 이미지 최대 너비 설정 */
+    }
+  }
+
+  @media (max-width: 600px) {
+    .image-container {
+      margin-right: 0px; /* 오른쪽 여백 설정 */
+    }
+
+    .flex-container {
+      flex-direction: column; /* 요소들을 세로로 배열 */
+    }
+  
+    .responsive-image {
+      max-width: 100%; /* 이미지 최대 너비를 화면 너비에 맞춤 */
+    }
+  
+    .introduction {
+      width: 100%; /* 텍스트 영역의 너비를 화면 너비에 맞춤 */
+    }
+
+    .image-caption {
+      margin-bottom: 30px;
+    }
+  }
+
+  .container {
+    text-align: right; /* Text aligned to the right */
+  }
+  .buttons {
+    display: inline-block; /* Allows buttons to sit next to each other */
+  }
+  .button {
+    display: inline-block; /* Align buttons horizontally */
+    background-color: #ffffff; /* White background color */
+    padding: 8px 8px; /* Smaller padding inside the button */
+    margin-left: 10px; /* Spacing between buttons */
+    border: 1px solid #000000; /* Gray border color */
+    text-decoration: none; /* Removes underline from links */
+    color: #000000; /* Gray text color */
+    font-size: 12px; /* Font size */
+    text-align: center; /* Center text inside the button */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Change mouse pointer on hover */
+  }
+  .button:hover {
+    background-color: #ffffff; /* Keeps background color white on hover */
+    color: #000000; /* Keeps text color gray on hover */
+  }
+</style>
+</head>
+<body>
+
+<div class="flex-container">
+  <div class="image-container">
+    <img src="/assets/img/about.png" class="responsive-image" alt="이미지 설명"/>
+    <div class="image-caption">Me, during UNIST NEXUS 2023</div>
+  </div>
+  <div class="introduction">{{ content }}</div>
+</div>
+
+<div class="container">
+  <p style="font-size: 10pt; line-height: 220%;">For more about me:</p>
+  <div class="buttons">
+    <a href="/cv" class="button">About</a>
+    <a href="\assets\cv\20240113_SeonukKim_EN_Resume.pdf" class="button">2-page CV</a>
+  </div>
+</div>
+
+<h2>NEWS</h2>
+
+<div class="news-entries grid-2">
+  {% include list_news.html limit=6 %}
+</div>
+<a href="/news">More news</a>

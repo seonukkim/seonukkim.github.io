@@ -1,0 +1,37 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var menuToggle = document.querySelector('.menu-toggle');
+      var nav = document.querySelector('.nav');
+    
+      menuToggle.addEventListener('click', function() {
+        nav.classList.toggle('active');
+      });
+    });
+</script>    
+
+<header class="header">
+    <div class="wrap">
+        <a class="logo" href="{{ site.baseurl }}/">
+            <span></span>
+            <b>Seonuk Kim</b>
+        </a>
+        
+        <!-- 햄버거 메뉴 버튼 추가 -->
+        <button class="menu-toggle">☰</button>
+
+        <nav class="main-nav">
+            <ul class="nav">
+                {% assign sorted_pages = site.pages | sort:"order" %}
+                {% for item in sorted_pages %}
+                {% if item.title %}
+                {% if item.title != 'Photos' and item.title != "Happy Teacher's Day!" %}
+                <li{% if item.url == page.url %} class="active"{% endif %}>
+                    <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+                </li>
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+</header>
