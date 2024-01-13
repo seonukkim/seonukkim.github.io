@@ -62,7 +62,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 
   <div class="entry-item course">
     <h3 class="entry-title"><a href="https://service.unist.ac.kr/">Service Engineering and Knowledge Discovery Lab.</a> <span style="font-size: 9pt;">UNIST</span></h3>
-    <p class="entry-meta">Nov. 2020 - December 2021</p>
+    <p class="entry-meta">Nov. 2020 - Dec. 2021</p>
     <p style="font-size: 11pt; line-height: 140%;">
       Artificial Intelligence Graduate School Creative Independent Project Researcher
     <br>
