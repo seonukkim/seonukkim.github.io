@@ -31,6 +31,7 @@
   <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
   <link href="{{ "/assets/style/main.css" | prepend: site.baseurl }}" rel="stylesheet">
   {% if site.google_analytics %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -39,4 +40,5 @@
     gtag('config', '{{ site.google_analytics }}');
   </script>
   {% endif %}
+  
 </head>
