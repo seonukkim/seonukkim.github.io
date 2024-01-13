@@ -12,12 +12,12 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 <h2>Curriculum Vitae</h2>
 <div class="news-entries grid-2">
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV (English): <a href="\assets\cv\20240113_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of January 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV (English) <a href="\assets\cv\20240113_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of January 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV (English): <a href="\assets\cv\20240113_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">2-page CV (English) <a href="\assets\cv\20240113_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
 </div>
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV (Korean): <a href="\assets\cv\20240113_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of January 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV (Korean) <a href="\assets\cv\20240113_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of January 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV (Korean): <a href="\assets\cv\20240113_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">2-page CV (Korean) <a href="\assets\cv\20240113_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
 </div>
 </div>
 
@@ -25,7 +25,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 <div class="news-entries grid-1">
 <div class="entry-item course">
     <h3 class="entry-title"><a href="https://www.unist.ac.kr/">UNIST <span style="font-size: 9pt;">Ulsan National Institute of Science and Technology</span></a></h3>
-    <p class="entry-meta">March 2020 - Present</p>
+    <p class="entry-meta">Mar. 2020 - Present</p>
     <p style="font-size: 11pt; line-height: 150%;">
       B.S. in Progress, <a href="https://ie.unist.ac.kr/">Industrial Engineering</a><br>
       B.S. in Progress, <a href="https://design.unist.ac.kr/">Design</a></p>
@@ -36,7 +36,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 <div class="news-entries grid-1">
   <div class="entry-item course">
       <h3 class="entry-title"><a href="https://thingsflow.com/">Thingsflow</a> <span style="font-size: 9pt;"><a href="https://www.krafton.com/">Krafton</a> Subsidiary</span></h3>
-      <p class="entry-meta">September 2023 - Present</p>
+      <p class="entry-meta">Sept. 2023 - Present</p>
       <p style="font-size: 11pt; line-height: 150%;">
         Machine Learning Scientist <span style="font-size: 9pt;"> (Alternative Military Service)</span>
       </p>  
@@ -52,7 +52,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
     
   <div class="entry-item course">
       <h3 class="entry-title"><a href="https://www.klee141.com/">Expressive Computing Lab.</a> <span style="font-size: 9pt;">UNIST</span></h3>
-      <p class="entry-meta">December 2021 - Present</p>
+      <p class="entry-meta">Dec. 2021 - Present</p>
       <p style="font-size: 11pt; line-height: 140%;">
         Research Assistant
       <br>
@@ -62,7 +62,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 
   <div class="entry-item course">
     <h3 class="entry-title"><a href="https://service.unist.ac.kr/">Service Engineering and Knowledge Discovery Lab.</a> <span style="font-size: 9pt;">UNIST</span></h3>
-    <p class="entry-meta">November 2020 - December 2021</p>
+    <p class="entry-meta">Nov. 2020 - December 2021</p>
     <p style="font-size: 11pt; line-height: 140%;">
       Artificial Intelligence Graduate School Creative Independent Project Researcher
     <br>
