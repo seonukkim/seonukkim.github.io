@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seonukkim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 title_image: "/assets/img/logo.png"
 
-analytics: "UA-88966686-1"
+analytics: "UA-298753766-1"
 
 permalink: /:categories/:title
 
