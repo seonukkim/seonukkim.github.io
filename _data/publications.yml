@@ -33,7 +33,7 @@ papers:
     award: ""
     link: "https://doi.org/10.21606/iasdr.2023.448"
 
-  - title: "#taggenerator: How an Online Community Designs an Interface for Text Prompt Inputs Using a NovelAI's Diffusion Model"
+  - title: "#taggenerator: How an Online Community Designs an Interface for Text Prompt Inputs Using a NovelAI's Diffusion Model (#taggenerator: NovelAI를 이용한 이미지 생성 서비스의 텍스트 프롬프트 탐색 및 태그 생성 행태 연구)"
     author: "__Seonuk Kim__, Yousang Kwon, Kyungho Lee"
     venue: "HCIK 2023"
     year: 2023
@@ -43,7 +43,7 @@ papers:
     award: ""
     link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229726"
 
-  - title: "A Study on the Use of AI as Creative Support Tool for Line Drawing in Manga Production"
+  - title: "A Study on the Use of AI as Creative Support Tool for Line Drawing in Manga Production (만화 제작 과정의 노동집약적 선화작업 효율화를 위한 AI의 창의적 이용에 관한 연구)"
     author: "__Seonuk Kim__, Kyungho Lee"
     venue: "KSDS 2022"
     year: 2022

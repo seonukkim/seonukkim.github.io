@@ -87,31 +87,44 @@ As a content creator and researcher, my primary objective is to utilize AI techn
       </p>  
   </div>
 </div>
+<style>
 
+</style>
 <div class="news-entries grid-1">
     <div class="entry-item course">
+        <p style="font-size: 11pt; line-height: 150%;">
         <h3 class="entry-title">2024</h3>
-        <p style="font-size: 11pt; line-height: 150%;">- <strong>Gold Prize, 3nd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition</strong>
+          <ul style="list-style-type:square; margin-left:1.2em">
+            <li><strong>Gold Prize, 3nd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition</strong></li>
+          </ul>
         </p>
-        <br>
+        <p style="font-size: 11pt; line-height: 150%;">
         <h3 class="entry-title">2023</h3>
-        <p style="font-size: 11pt; line-height: 150%;">- <strong>Gold Prize, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition</strong>
-        <br>- Certificate, 7th Ambassador, the Consulate-General of Japan in Busan
-        <br>- Certificate, JENESYS 2022, the Consulate-General of Japan in Busan
+          <ul style="list-style-type:square; margin-left:1.2em">
+            <li><strong>Gold Prize, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition</strong></li>
+            <li>Certificate, 7th Ambassador, the Consulate-General of Japan in Busan</li>
+            <li>Certificate, JENESYS 2022, the Consulate-General of Japan in Busan</li>
+          </ul>
         </p>
-        <br>
+        <p style="font-size: 11pt; line-height: 150%;">
         <h3 class="entry-title">2022</h3>
-        <p style="font-size: 11pt; line-height: 150%;">- <strong>Silver Prize, 4nd place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition</strong>
-        <br>- Excellence Prize, 9th IEEE Quiz Contest for undergraduates
-        <br>- Best Student Paper Honorable Mention, Korea Society of Design Science
+          <ul style="list-style-type:square; margin-left:1.2em">
+            <li><strong>Silver Prize, 4nd place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition</strong></li>
+            <li>Excellence Prize, 9th IEEE Quiz Contest for undergraduates</li>
+            <li>Best Student Paper Honorable Mention, Korea Society of Design Science</li>
+          </ul>
         </p>
-        <br>
+        <p style="font-size: 11pt; line-height: 150%;" title="Ariticle about Lee Soo-hyun">
         <h3 class="entry-title">2021</h3>
-        <p style="font-size: 11pt; line-height: 150%;" title="Ariticle about Lee Soo-hyun">- Gold Prize, 2nd place, <a href="https://www.donga.com/en/article/all/20011231/210363/1/">Lee Soo-hyun</a> 20th Memorial Book Review Essay Contest, the Consulate-General of Japan in Busan
+          <ul style="list-style-type:square; margin-left:1.2em">
+            <li>Gold Prize, 2nd place, <a href="https://www.donga.com/en/article/all/20011231/210363/1/">Lee Soo-hyun</a> 20th Memorial Book Review Essay Contest, the Consulate-General of Japan in Busan</li>
+          </ul>
         </p>
-        <br>
+        <p style="font-size: 11pt; line-height: 150%;">
         <h3 class="entry-title">2020</h3>
-        <p style="font-size: 11pt; line-height: 150%;">- Excellence Prize (Samsung Electronics Vice Chairman Prize, $2,300 as awards), Campus Patent Universiade
+          <ul style="list-style-type:square; margin-left:1.2em">
+            <li>Excellence Prize (Samsung Electronics Vice Chairman Prize, $2,300 as awards), Campus Patent Universiade</li>
+          </ul>
         </p>
     </div>
 </div>
