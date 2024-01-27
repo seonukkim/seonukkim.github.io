@@ -8,6 +8,6 @@ order: 1
 
 <p style="font-size: 12pt; line-height: 160%;">
   I'm currently a machine learning scientist at <a href="https://thingsflow.com/">Thingsflow</a> and research assistant at <a href="https://www.klee141.com/">Expressive Computing Lab</a> in UNIST led by Prof. Kyungho Lee. I'm also an undergraduate student at <a href="https://unist.ac.kr/">UNIST</a>, and double majoring in Industrial Engineering and Design.<br><br>
-  My research interests are <strong>human-AI interaction</strong>, specially around content creation, how people easily create their own comics or animations with AI, and how AI can help people to get accomplishment and satisfaction from their own creation.<br><br>
+  My research interest lies in <strong>Human-Centered AI</strong>, particularly in the field of content creation. I am exploring how AI can assist individuals in effortlessly creating their own comics or animations and how it can contribute to their sense of achievement and satisfaction from their creations. In this process, the interaction between AI and users is of paramount importance. It is crucial that AI accurately understands the user's intentions, offers creative ideas, and aids users in deeply engaging and enjoying their creative process.<br><br>
   Outside of work, I enjoy comics, animations, novels, and coffee time with my friends ☕
 </p>
