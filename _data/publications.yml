@@ -12,6 +12,15 @@ types:
   - preprint
 
 papers:
+  - title: "Representing the Timbre of Traditional Musical Instruments Based On Contemporary Instrumental Samples Using DDSP (DDSP를 활용한 현대 악기 샘플을 기반 전통 악기의 음색 표현)"
+    author: "Yousang Kwon, Jonghoon Byun, __Seonuk Kim__, Taeyoung Ko, Juhyeok Yoon, Kyungho Lee"
+    venue: "HCIK 2024"
+    year: 2024
+    topics:
+      - domestic
+    type: conference
+    award: ""
+    link: #"https://doi.org/10.1145/3586182.3616678"
 
   - title: "Representing the Timbre of Traditional Musical Instruments Based On Contemporary Instrumental Samples Using DDSP"
     author: "Yousang Kwon, __Seonuk Kim__, Taeyoung Ko, Juhyeok Yoon, Kyungho Lee"
