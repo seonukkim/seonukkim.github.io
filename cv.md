@@ -12,12 +12,12 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 <h2>Curriculum Vitae</h2>
 <div class="news-entries grid-2">
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(English)</span>: <a href="\assets\cv\20240113_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(English)</span>: <a href="\assets\cv\20240113_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(English)</span>: <a href="\assets\cv\20240301_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(English)</span>: <a href="\assets\cv\20240301_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
 </div>
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(Korean)</span>: <a href="\assets\cv\20240113_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(Korean)</span>: <a href="\assets\cv\20240113_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(Korean)</span>: <a href="\assets\cv\20240301_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(Korean)</span>: <a href="\assets\cv\20240301_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
 </div>
 </div>
 
@@ -52,7 +52,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
     
   <div class="entry-item course">
       <h3 class="entry-title"><a href="https://www.klee141.com/">Expressive Computing Lab.</a> <span style="font-size: 9pt;">UNIST</span></h3>
-      <p class="entry-meta">Dec. 2021 - Present</p>
+      <p class="entry-meta">Dec. 2021 - Mar. 2024</p>
       <p style="font-size: 11pt; line-height: 140%;">
         Research Assistant
       <br>
