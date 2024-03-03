@@ -20,7 +20,7 @@ papers:
       - domestic
     type: conference
     award: ""
-    link: #"https://doi.org/10.1145/3586182.3616678"
+    link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714638"
 
   - title: "Representing the Timbre of Traditional Musical Instruments Based On Contemporary Instrumental Samples Using DDSP"
     author: "Yousang Kwon, __Seonuk Kim__, Taeyoung Ko, Juhyeok Yoon, Kyungho Lee"
