@@ -6,6 +6,9 @@ author: Admin
 categories: news
 img: default.png
 thumb: default.png
+summary: "[Pet AI Profile 5: Happy Lunar New Year Edition](https://hellomy.ai/en/detail/298) is released."
 ---
 
 [Pet AI Profile 5: Happy Lunar New Year Edition](https://hellomy.ai/en/detail/298) is released. I independently developed and oversaw the core AI pipeline responsible for generating images of pets in hanbok, the traditional Korean attire, uniquely customized for each pet.
+
+![Pet AI Profile 5: Happy Lunar New Year Edition](/assets/img/news/2024-02-01-hanbok.png){: width="400"}
