@@ -36,12 +36,12 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 <h2>Curriculum Vitae</h2>
 <div class="news-entries grid-2">
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(English)</span>: <a href="\assets\cv\20240301_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(English)</span>: <a href="\assets\cv\20240301_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(English)</span>: <a href="/assets/cv/20240301_SeonukKim_EN_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Mar. 1st)</span></a></h3>
+    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(English)</span>: <a href="/assets/cv/20240301_SeonukKim_EN_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Mar. 1st)</span></a></h3>
 </div>
 <div class="entry-item course">
-    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(Korean)</span>: <a href="\assets\cv\20240301_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
-    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(Korean)</span>: <a href="\assets\cv\20240301_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Jan. 13th)</span></a></h3>
+    <h3 class="entry-title">Full CV <span style="font-size: 9pt;">(Korean)</span>: <a href="/assets/cv/20240301_SeonukKim_KO_CV.pdf">[PDF] <span style="font-size: 9pt;">(as of Mar. 1st)</span></a></h3>
+    <h3 class="entry-title">2-page CV <span style="font-size: 9pt;">(Korean)</span>: <a href="/assets/cv/20240301_SeonukKim_KO_Resume.pdf">[PDF] <span style="font-size: 9pt;">(as of Mar. 1st)</span></a></h3>
 </div>
 </div>
 
