@@ -7,6 +7,11 @@ layout: default
 {{ content }}
 
 <hr style="border: solid 1px #e6e6e6;">
+<h2>2024</h2>
+
+{% include list_projects.html limit=20 projects=site.categories.projects-2024 %}
+
+<hr style="border: solid 1px #e6e6e6;">
 <h2>2023</h2>
 
 {% include list_projects.html limit=20 projects=site.categories.projects-2023 %}
