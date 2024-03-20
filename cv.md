@@ -140,7 +140,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
   <div class="section-title">2022</div>
 	<div class="about-content">
     <ul style="list-style-type:square; font-size: 10pt; line-height: 150%; margin-bottom: 5px; padding-bottom: 2px;">
-      <li>Silver Prize, 4nd place ($800 as awards), 1st UNIST-KAIST-POSTECH Data Science Competition</li>
+      <li>Silver Prize, 4nd place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition</li>
       <li>Excellence Prize, 9th IEEE Quiz Contest for undergraduates</li>
       <li>Best Student Paper Honorable Mention, Korea Society of Design Science</li>
     </ul>  
