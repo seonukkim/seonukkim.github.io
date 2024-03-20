@@ -1,4 +1,4 @@
 deploy:
 	git add . --all
-	git commit -m "update: news"
+	git commit -m "fix: cv typo"
 	git push -u origin main
