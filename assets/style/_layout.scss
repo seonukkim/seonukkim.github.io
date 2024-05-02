@@ -328,3 +328,28 @@ html {
 .wrap {
   position: relative; // 토글 버튼의 위치 기준
 }
+
+/* Responsive media elements */
+.responsive-media {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: 0; // Aligns the image to the left
+  margin-top: 0;
+  margin-bottom: 0;
+
+  @media (min-width: 601px) {
+    width: 500px; // Fixed width for viewports at least 601px wide
+  }
+}
+
+.responsive-iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9; // Maintains a 16:9 aspect ratio
+  iframe {
+    width: 100%;
+    height: 100%;
+  }
+}

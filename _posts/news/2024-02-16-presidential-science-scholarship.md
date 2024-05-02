@@ -11,4 +11,4 @@ summary: "Participated in the 10th conversations with future scientists event in
 
 Participated in the 10th conversations with future scientists event in Daejeon, South Korea. The event is an opportunity for international olympiad winners and presidential science scholars to be personally visited by the president of the Republic of Korea to solicit the opinions of future scientists and personally recognize their achievements.
 
-![the 10th Conversations with Future Scientists](/assets/img/news/2024-02-16-conversation.jpeg){: width="400"}
+<img src="/assets/img/news/2024-02-16-conversation.jpeg" alt="the 10th Conversations with Future Scientists" class="responsive-media">
