@@ -91,7 +91,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 	<div class="about-content">
 		<h3 class="entry-title"><a href="https://service.unist.ac.kr/">Service Engineering and Knowledge Discovery Lab.</a> <span style="font-size: 9pt;">UNIST</span></h3>
       <p style="font-size: 11pt; line-height: 140%;">
-        Artificial Intelligence Graduate School Creative Independent Project Researcher
+        Researcher of Artificial Intelligence Graduate School Creative Independent Project
     <br>
     <span style="font-size: 10pt;">Advised by Prof. Chiehyeon Lim</span>
       </p>
