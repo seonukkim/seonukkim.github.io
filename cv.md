@@ -62,7 +62,7 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 	<div class="about-content">
       <h3 class="entry-title"><a href="https://thingsflow.com/">thingsflow</a> <span style="font-size: 9pt;">subsidiary of <a href="https://www.krafton.com/">KRAFTON</a></span></h3>
   </div>
-  <div class="section-title">Sep. 2023 - Present</div>
+  <div class="section-title">Sep. 2023 - Nov. 2024</div>
 	<div class="about-content">
     <p style="font-size: 11pt; line-height: 150%;">
         Machine Learning Scientist <span style="font-size: 9pt;"> (Alternative Military Service)</span><br></p>
