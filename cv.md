@@ -58,6 +58,15 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 
 <h2>Experience</h2>
 <div class="about-grid section">
+	<div class="section-title">Jan. 2025 - Present</div>
+	<div class="about-content">
+		<h3 class="entry-title"><a href="https://www.lionrocket.ai/en">LionRocket</a> <span style="font-size: 9pt;"></span></h3>
+      <p style="font-size: 11pt; line-height: 140%;">
+        MLOps Engineer <span style="font-size: 9pt;"> (Alternative Military Service)</span><br></p>
+</div>
+</div>
+
+<div class="about-grid section">
 	<div class="section-title"></div>
 	<div class="about-content">
       <h3 class="entry-title"><a href="https://thingsflow.com/">thingsflow</a> <span style="font-size: 9pt;">subsidiary of <a href="https://www.krafton.com/">KRAFTON</a></span></h3>
@@ -121,9 +130,17 @@ As a content creator and researcher, my primary objective is to utilize AI techn
 
 <h2>Honors and Awards</h2>
 <div class="about-grid section">
+  <div class="section-title">2025</div>
+	<div class="about-content">
+    <ul style="list-style-type:square; font-size: 10pt; line-height: 150%; margin-bottom: 5px; padding-bottom: 2px;">
+      <li>Gold Prize, 2nd place ($1,500 as awards), 4th UNIST-KAIST-POSTECH AI&Data Science Competition</li> 
+    </ul>  
+  </div>
+
 	<div class="section-title">2024</div>
 	<div class="about-content">
     <ul style="list-style-type:square; font-size: 10pt; line-height: 150%; margin-bottom: 5px; padding-bottom: 2px;">
+      <li>Winner, Talent Award of Korea</li> 
       <li>Gold Prize, 3nd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition</li> 
     </ul>  
   </div>
